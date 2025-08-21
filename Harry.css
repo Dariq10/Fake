@@ -29,10 +29,12 @@ body{
 .haray span{
    color: red;
 }
+.red{
+   color: red;
+}
 .haray p{
    text-align: center;
    font-size: 35px;
    margin-top: 20px;
-   color: #FF0000;
    font-weight: bold;
 }
