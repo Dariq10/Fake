@@ -34,11 +34,12 @@ body{
 }
 .red{
    color: red;
-   font-family: "Poppins", sans-serif;
+   font-family: Poppins, sans-serif;
 }
 .haray p{
    text-align: center;
    font-size: 35px;
    margin-top: 20px;
    font-weight: bold;
+   font-family: "Poppins", sans-serif;
 }
